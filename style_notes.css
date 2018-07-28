@@ -99,7 +99,7 @@ body#notes{
 #notes_footer p{
     width:100%;
     height:20px;
-    margin: 0px;
+    margin-bottom: 8px;
     text-align: center;
     font-family: sans-serif;
     color:#777777;
