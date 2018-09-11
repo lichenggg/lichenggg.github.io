@@ -47,7 +47,9 @@ body#life{
     font-weight:bold;
 }
 
+
 #music{
+    margin-top: 30px;
     height:auto;
 }
 
